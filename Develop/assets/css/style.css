@@ -41,6 +41,16 @@ body {
     margin-left: 25px;
 }
 /* end header styles */
+/* add skip to main content for accessibility */
+.hidden {
+    position: relative;
+    left: -10000px;
+    top: auto;
+}
+.hidden:focus {
+    left: 0;
+}
+/* end skip accessibility */
 
 a {
     color: #ffffff;
