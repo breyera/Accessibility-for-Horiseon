@@ -1,8 +1,8 @@
-# HW-01-Code-Refactor
+# Accessibility-for-Horiseon
 
 ## This Repository 
 
-In this project, I was tasked with an on-the-job ticket from a marketing agency. I took already written code and modified it to correct syntax and add accessiblity. Accessiblity is important to add to make sure everyone coming to the site can access the information given. By adding in proper syntax, alt tags, tab-index, and color checks, I hope to address issues people may have reading the website. 
+In this project, I was tasked with an on-the-job ticket from a marketing agency, Horiseon. I took already written code and modified it to correct syntax and add accessiblity. Accessiblity is important to add to make sure everyone coming to the site can access the information given. By adding in proper syntax, alt tags, tab-index, and color checks, I hope to address issues people may have reading the website. 
 
 Through this project, I learned how to check for basic accessiblity needs, correct tags to make them semantic, and how to use css to not only help with aesthetics, but also think about everyone and their needs when they land on websites. What makes my project stand out is by adding a skip to main content button to allow users to skip navigation and get to the important information. 
 
@@ -18,5 +18,5 @@ Through this project, I learned how to check for basic accessiblity needs, corre
 
 ### Important Link and Screenshot
 
-* [deployed site](https://breyera.github.io/HW-01-Code-Refactor/)
+* [deployed site](https://breyera.github.io/Accessibility-for-Horiseon/)
 ![screenshot of amended website](assets/images/screenshot.png)
