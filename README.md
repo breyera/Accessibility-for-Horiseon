@@ -17,7 +17,7 @@ Through this project, I learned how to check for basic accessiblity needs, corre
 * added skip to main content that is tabindex 1 for accessibility to allow users to skip nav and go straight to content
 * added @media screen so that when the screen size decreases, the content follows
 
-#### Important Links
+### Important Links
 
 * ![screenshot of amended website](assets/images/screenshot.png)
 * [deployed site](https://breyera.github.io/HW-01-Code-Refactor/)
