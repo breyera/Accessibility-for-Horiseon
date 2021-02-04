@@ -11,13 +11,12 @@ Through this project, I learned how to check for basic accessiblity needs, corre
 * modified div tags to header, nav, section, aside, and footer 
 * added id to search-engine-optimization so that it would link properly from the nav
 * changed class of main sections to match to consolidate css 
-* deleted repetitive css and consilidted to one code per tag under new content-info tag
+* deleted repetitive css and consilidated to one code per tag under new content-info tag
 * added alt tags to all images
 * deleted img closing tags that had been applied
 * added skip to main content that is tabindex 1 for accessibility to allow users to skip nav and go straight to content
-* added @media screen so that when the screen size decreases, the content follows
 
-### Important Links
+### Important Link and Screenshot
 
-* ![screenshot of amended website](assets/images/screenshot.png)
 * [deployed site](https://breyera.github.io/HW-01-Code-Refactor/)
+![screenshot of amended website](assets/images/screenshot.png)
